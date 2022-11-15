@@ -1,0 +1,32 @@
+[submodule "localization/odoo-hr"]
+	path = localization/odoo-hr
+	url = git@github.com:opa-consulting/odoo-hr.git
+	branch = master
+[submodule "localization/odoo-account"]
+	path = localization/odoo-account
+	url = git@github.com:opa-consulting/odoo-account.git
+	branch = master
+[submodule "localization/odoo-analytic"]
+	path = localization/odoo-analytic
+	url = git@github.com:opa-consulting/odoo-analytic.git
+	branch = master
+[submodule "localization/odoo-ec"]
+	path = localization/odoo-ec
+	url = git@github.com:opa-consulting/odoo-ec.git
+	branch = master
+[submodule "localization/odoo-latam"]
+	path = localization/odoo-latam
+	url = git@github.com:opa-consulting/odoo-latam.git
+	branch = master
+[submodule "localization/odoo-purchase"]
+	path = localization/odoo-purchase
+	url = git@github.com:opa-consulting/odoo-purchase.git
+	branch = master
+[submodule "localization/odoo-stock"]
+	path = localization/odoo-stock
+	url = git@github.com:opa-consulting/odoo-stock.git
+	branch = master
+[submodule "localization/odoo-payment"]
+	path = localization/odoo-payment
+	url = git@github.com:opa-consulting/odoo-payment.git
+	branch = master
